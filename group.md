@@ -18,5 +18,4 @@
 * [untek-tool](https://github.com/untek-tool) - Инструменты для разработки
 * [untek-user](https://github.com/untek-user) - Пользователь, права доступа
 * [zntpl](https://github.com/zntpl) - Шаблоны проектов
-* [znyii](https://github.com/znyii) - Пакеты для Yii
 * [untek-user](https://github.com/untek-user) - Пользователь
