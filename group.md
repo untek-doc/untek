@@ -16,3 +16,4 @@
 * [untek-tool](https://github.com/untek-tool) - Инструменты для разработки
 * [untek-user](https://github.com/untek-user) - Пользователь, права доступа
 * [untek-example](https://github.com/untek-example) - Примеры
+* [untek-component](https://github.com/untek-component) - автономная PHP-библиотека, предоставляющая определенную функцию, которая может быть использована в любом PHP-приложении
